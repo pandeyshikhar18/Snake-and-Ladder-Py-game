@@ -1,8 +1,8 @@
-#Snake and Ladder - Pygame
+# Snake and Ladder - Pygame
 
 An interactive Snakes and Ladders game built using Pygame, supporting two players.
 
-Features
+## Features
 
 Two-player turn-based gameplay
 
@@ -14,7 +14,7 @@ Simple UI with token representation
 
 Game restart option after winning
 
-How to Play
+## How to Play
 
 Run the script in Python.
 
@@ -28,7 +28,7 @@ First to reach position 100 wins.
 
 Press R to restart the game.
 
-Requirements
+## Requirements
 
 Python 3
 
@@ -38,7 +38,7 @@ Running the Game
 
 python snake_and_ladder.py
 
-Assets
+## Assets
 
 Ensure the following assets are in the same directory:
 
@@ -48,7 +48,7 @@ dice1.png to dice6.png (Dice Images)
 
 roll.wav (Dice Roll Sound) (Optional)
 
-License
+## License
 
 This project is open-source and free to use.
 
